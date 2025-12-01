@@ -18,7 +18,7 @@
 
 ## PROJECTS
 
-* **[Emotion Video Player](https://github.com/jssuarezc/Affective-Computing)**: AI-driven video player that showcases emotions, based on EMOTIONCLIP | :2nd_place_medal: Runner up in the Affective Computing course.
+* **[Emotion Video Player](https://github.com/jssuarezc/Affective-Computing)**: AI-driven video player that showcases emotions, based on EMOTIONCLIP | :2nd_place_medal: **Runner up in the Affective Computing course.**
 * **IoT for Industry 4.0**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol.
 * **FORMWIZZARD**: Web App for companies developed using .NET6 Razor Pages.
 * **[ROBOT MAZE](https://github.com/jssuarezc/Maze-with-RL)**: Maze designed in Python, uses Q-learning to find the exit.
