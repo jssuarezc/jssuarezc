@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Jessica 👋
 
-<!--
-**jssuarezc/jssuarezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👩‍🎓 Master of Applied Computing | University of Oulu
+* 💻 Currently specializing in IoT and Research in HCI
+* 💖 Areas of focus: UI/UX design, HCI or Machine Learning project, Embedded Circuits and Robotics.
+* 🧘 Love jigsaw puzzles, drawing and analog photography.
+* 🛠️ Currently learning:
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,rust,java,docker" />
+  </a>
+</p>
+  
+* :books: Publications:  
+- [Bachelor's Thesis](https://www.theseus.fi/handle/10024/872178) : Admissions Automation Platform (Built with .NET Core 6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## PROJECTS
+
+* **Emotion Video Player**: AI-driven video player that showcases emotions, based on EMOTIONCLIP | :2nd_place_medal: Runner up in the Affective Computing course.
+* **IoT for Industry 4.0**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol.
+* **FORMWIZZARD**: Web App for companies developed using .NET6 Razor Pages.
+* **ROBOT MAZE**: Maze designed in Python, uses Q-learning to find the exit.
+* **TRACKING LOG - DEMO**: Small tracking log to keep notes, using .NET6.
+
+## STACK
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,figma,aws,javascript,arduino,bootstrap,cs,cpp,css,cmake,dotnet,matlab,mysql,postman,py,pytorch,r,ros,sqlite,tailwind,vscode,flask" />
+  </a>
+</p>
