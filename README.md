@@ -1,6 +1,6 @@
 ## Hi, I'm Jessica 👋
 
-* 👩‍🎓 Master of Applied Computing | University of Oulu | Old github account **[jsuarez1992](https://github.com/jsuarez1992/)**
+* 👩‍🎓 Master of Applied Computing | University of Oulu | **Old github account [jsuarez1992](https://github.com/jsuarez1992/)**
 * 💻 Currently specializing in IoT and Research in HCI
 * 💖 Areas of focus: UI/UX design, HCI or Machine Learning project, Embedded Circuits and Robotics.
 * 🧘 Love jigsaw puzzles, drawing and analog photography.
