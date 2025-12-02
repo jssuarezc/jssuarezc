@@ -10,10 +10,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,rust,java,docker" />
   </a>
-</p>
-  
-* :books: Publications:  
-- [Bachelor's Thesis](https://www.theseus.fi/handle/10024/872178) : Admissions Automation Platform (Built with .NET Core 6)
+</p> 
+
 
 
 ## PROJECTS
@@ -31,3 +29,9 @@
     <img src="https://skillicons.dev/icons?i=bash,figma,aws,javascript,arduino,bootstrap,cs,cpp,css,cmake,dotnet,matlab,mysql,postman,py,pytorch,r,ros,sqlite,tailwind,vscode,flask" />
   </a>
 </p>
+
+
+
+## Articles & Publications
+
+- [Bachelor's Thesis](https://www.theseus.fi/handle/10024/872178) : Admissions Automation Platform (Built with .NET Core 6)
