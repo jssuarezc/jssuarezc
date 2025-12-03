@@ -21,6 +21,13 @@
 * **[ROBOT MAZE](https://github.com/jssuarezc/Maze-with-RL)**: Maze designed in Python, uses Q-learning to find the exit.
 * **TRACKING LOG - DEMO**: Small tracking log to keep notes, using .NET6.
 
+## CURRENTLY WORKING ON
+
+* **RASPBERRY PI - PROJECT**: Visit software with motion detector, developed for the IoT course - University of Oulu.
+* Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
+* Java Videogame: "Create a videogame" tutorial following this link.
+* Udemy for VR based on Udemy Fundamentals.
+
 ## STACK
 
 <p align="center">
