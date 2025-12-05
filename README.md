@@ -20,7 +20,7 @@
 * **[IoT for Industry 4.0](https://github.com/jssuarezc/Lego-IoT-Project)**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol
 * **[ROBOT MAZE](https://github.com/jssuarezc/Maze-with-RL)**: Maze designed in Python, uses Q-learning to find the exit.
 * **FORMWIZZARD**: Web App for companies developed using .NET6 Razor Pages.
-* **[NEWS APPI](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
+* **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
 * **[TRACKING LOG](https://github.com/jssuarezc/Tracking-Log)**: Small tracking log to keep notes, using .NET6.
 
 ## CURRENTLY WORKING ON
