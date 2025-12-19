@@ -17,6 +17,7 @@
 
 
 * **[Emotion Video Player](https://github.com/jssuarezc/Affective-Computing)**: AI-driven video player that showcases emotions, based on EMOTIONCLIP | :2nd_place_medal: **Runner up in the Affective Computing course.**
+* **[RASPBERRY PI - PROJECT](https://github.com/jsorv/IoT-group-12)**: Visit software with motion detector, developed for the IoT course - University of Oulu.
 * **[IoT for Industry 4.0](https://github.com/jssuarezc/Lego-IoT-Project)**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol
 * **[SQL QUERY CHALLENGE](https://github.com/jssuarezc/SQL_DATA_ANALYTICS)**: How to solve Queries for intervies.
 * **[ROBOT MAZE](https://github.com/jssuarezc/Maze-with-RL)**: Maze designed in Python, uses Q-learning to find the exit.
@@ -26,7 +27,7 @@
 
 ## CURRENTLY WORKING ON
 
-* **[RASPBERRY PI - PROJECT](https://github.com/jsorv/IoT-group-12)**: Visit software with motion detector, developed for the IoT course - University of Oulu.
+* HCI themed paper: Research for Applied Computing II - University of Oulu.
 * Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
 * Udemy for VR based on Udemy Fundamentals.
 
