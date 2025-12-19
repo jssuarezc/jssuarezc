@@ -41,6 +41,6 @@
 
 
 
-## Articles & Publications
+## Articles
 
 - **[Bachelor's Thesis](https://www.theseus.fi/handle/10024/872178)** : Admissions Automation Platform (Built with .NET Core 6)
