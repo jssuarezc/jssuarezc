@@ -29,6 +29,8 @@
 
 * HCI themed paper: Research for Applied Computing II - University of Oulu.
 * Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
+* IoT project: Sonar motion detector, to be developed
+* Movie classificator and display: Built on .NET8, to be developed.
 * Udemy for VR based on Udemy Fundamentals.
 
 ## STACK
