@@ -26,9 +26,8 @@
 
 ## CURRENTLY WORKING ON
 
-* **RASPBERRY PI - PROJECT**: Visit software with motion detector, developed for the IoT course - University of Oulu.
+* **[RASPBERRY PI - PROJECT](https://github.com/jsorv/IoT-group-12)**: Visit software with motion detector, developed for the IoT course - University of Oulu.
 * Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
-* Java Videogame: "Create a videogame" tutorial following this link.
 * Udemy for VR based on Udemy Fundamentals.
 
 ## STACK
