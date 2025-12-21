@@ -25,11 +25,13 @@
 * **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
 * **[TRACKING LOG](https://github.com/jssuarezc/Tracking-Log)**: Small tracking log to keep notes, using .NET6.
 
-## CURRENTLY WORKING ON
+## 2026 projects:
 
 * HCI themed paper: Research for Applied Computing II - University of Oulu.
 * Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
+* Megapose6D implementation for personal projects, stay tuned
 * IoT project: Sonar motion detector, to be developed
+* IoT project: Alarm system with intruder classification, to be deployed
 * Movie classificator and display: Built on .NET8, to be developed.
 * Udemy for VR based on Udemy Fundamentals.
 
