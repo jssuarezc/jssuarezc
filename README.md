@@ -27,7 +27,6 @@
 
 ## 2026 projects:
 
-* HCI themed paper: Research for Applied Computing II - University of Oulu.
 * Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
 * Megapose6D implementation for personal projects, stay tuned
 * IoT project: Sonar motion detector, to be developed
