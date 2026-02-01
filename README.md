@@ -18,7 +18,7 @@
 
 * **[Emotion Video Player](https://github.com/jssuarezc/Affective-Computing)**: AI-driven video player that showcases emotions, based on EMOTIONCLIP | :2nd_place_medal: **Runner up in the Affective Computing course.**
 * **[RASPBERRY PI - PROJECT](https://github.com/jssuarezc/IoT_Security_System)**: Alarm system with intruder classification, developed for the IoT course - University of Oulu.
-* **[SQL QUERY CHALLENGE](https://github.com/jssuarezc/SQL_DATA_ANALYTICS)**: How to solve Queries for intervies.
+* **[SQL QUERY CHALLENGE](https://github.com/jssuarezc/SQL_DATA_ANALYTICS)**: SQL query solving for interviews.
 * **[IoT for Industry 4.0](https://github.com/jssuarezc/Lego-IoT-Project)**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol.
 * **[ROBOT MAZE](https://github.com/jssuarezc/Maze-with-RL)**: Maze designed in Python, uses Q-learning to find the exit.
 * **FORMWIZZARD**: Web App for companies developed using .NET6 Razor Pages.
