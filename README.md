@@ -30,7 +30,6 @@
 * Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
 * Megapose6D implementation for personal projects, stay tuned
 * IoT project: Sonar motion detector, to be developed
-* Movie classificator and display: Built on .NET8, to be developed.
 * Udemy for VR based on Udemy Fundamentals.
 
 ## STACK
