@@ -27,6 +27,7 @@
 
 ## 2026 projects:
 
+* AI CHATROOM: 60% implemented
 * Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
 * Megapose6D implementation for personal projects, stay tuned
 * IoT project: Water based Embedded Ssystem project
