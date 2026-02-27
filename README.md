@@ -24,10 +24,11 @@
 * **FORMWIZZARD**: Web App for companies developed using .NET6 Razor Pages.
 * **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
 * **[TRACKING LOG](https://github.com/jssuarezc/Tracking-Log)**: Small tracking log to keep notes, using .NET6.
+* **AI CHATROOM**: Private Repo
+
 
 ## 2026 projects:
 
-* AI CHATROOM: 60% implemented
 * Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
 * Megapose6D implementation for personal projects, stay tuned
 * IoT project: Water based Embedded Ssystem project
