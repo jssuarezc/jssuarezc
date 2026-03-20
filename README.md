@@ -29,9 +29,9 @@
 
 ## 2026 projects:
 
-* Rust Fundamentals: No repo yet, but slowly watching rust fundamentals to expand my knowledge.
-* Megapose6D implementation for personal projects, stay tuned
-* IoT project: Water based Embedded Ssystem project
+* Fridgeventory: Pantry inventory (WORK IN PROGRESS)
+* Seraphync: Spotify mood application (WORK IN PROGRESS)
+* IoT project: Water based Embedded Ssystem project (WORK IN PROGRESS)
 * Udemy for VR based on Udemy Fundamentals.
 
 ## STACK
