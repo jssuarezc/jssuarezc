@@ -21,17 +21,14 @@
 * **[SQL QUERY CHALLENGE](https://github.com/jssuarezc/SQL_DATA_ANALYTICS)**: SQL query solving for interviews.
 * **[IoT for Industry 4.0](https://github.com/jssuarezc/Lego-IoT-Project)**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol.
 * **[ROBOT MAZE](https://github.com/jssuarezc/Maze-with-RL)**: Maze designed in Python, uses Q-learning to find the exit.
-* **FORMWIZZARD**: Web App for companies developed using .NET6 Razor Pages.
 * **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
 * **[TRACKING LOG](https://github.com/jssuarezc/Tracking-Log)**: Small tracking log to keep notes, using .NET6.
-* **AI CHATROOM**: Private Repo
-
+* **FRIDGEVENTORY**: Web based application for pantry storage. Work in progress.
+* **SERAPHYNC**: Web interface that suggests music based on your mood. Based on EmotionCLIP. Work in progress.
+* **WATER PLANT**: IoT project for Embedded Systems course. Work in progress.
 
 ## 2026 projects:
 
-* Fridgeventory: Pantry inventory (WORK IN PROGRESS)
-* Seraphync: Spotify mood application (WORK IN PROGRESS)
-* IoT project: Water based Embedded Ssystem project (WORK IN PROGRESS)
 * Udemy for VR based on Udemy Fundamentals.
 
 ## STACK
