@@ -23,7 +23,7 @@
 * **[ROBOT MAZE](https://github.com/jssuarezc/Maze-with-RL)**: Maze designed in Python, uses Q-learning to find the exit.
 * **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
 * **[TRACKING LOG](https://github.com/jssuarezc/Tracking-Log)**: Small tracking log to keep notes, using .NET6.
-* **FRIDGEVENTORY**: Web based application for pantry storage. Work in progress.
+* **[FRIDGEVENTORY](https://github.com/jssuarezc/FOODPANTRY)**: Web based application for pantry storage. Work in progress.
 * **SERAPHYNC**: Web interface that suggests music based on your mood. Based on EmotionCLIP. Work in progress.
 * **WATER PLANT**: IoT project for Embedded Systems course. Work in progress.
 
