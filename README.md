@@ -20,7 +20,7 @@
 * **[RASPBERRY PI - PROJECT](https://github.com/jssuarezc/IoT_Security_System)**: Alarm system with intruder classification, developed for the IoT course - University of Oulu.
 * **[SQL QUERY CHALLENGE](https://github.com/jssuarezc/SQL_DATA_ANALYTICS)**: SQL query solving for interviews.
 * **[IoT for Industry 4.0](https://github.com/jssuarezc/Lego-IoT-Project)**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol.
-* **[ROBOT MAZE](https://github.com/jssuarezc/Maze-with-RL)**: Maze designed in Python, uses Q-learning to find the exit.
+* **[ROBOT DERBY](https://github.com/jssuarezc/ROBOTDERBY)**: Maze designed in Python, where different algorithms race to the finnish line.
 * **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
 * **[TRACKING LOG](https://github.com/jssuarezc/Tracking-Log)**: Small tracking log to keep notes, using .NET6.
 * **[FRIDGEVENTORY](https://github.com/jssuarezc/FOODPANTRY)**: Web based application for pantry storage. Work in progress.
