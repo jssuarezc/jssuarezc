@@ -18,12 +18,12 @@
 
 * **[Emotion Video Player](https://github.com/jssuarezc/Affective-Computing)**: AI-driven video player that showcases emotions, based on EMOTIONCLIP | :2nd_place_medal: **Runner up in the Affective Computing course.**
 * **[RASPBERRY PI - PROJECT](https://github.com/jssuarezc/IoT_Security_System)**: Alarm system with intruder classification, developed for the IoT course - University of Oulu.
+* **[FRIDGEVENTORY](https://github.com/jssuarezc/FOODPANTRY)**: Web based application for pantry storage. Work in progress.
+* **[ROBOT DERBY](https://github.com/jssuarezc/ROBOTDERBY)**: Maze designed in Python, where different algorithms race to the finnish line.
 * **[SQL QUERY CHALLENGE](https://github.com/jssuarezc/SQL_DATA_ANALYTICS)**: SQL query solving for interviews.
 * **[IoT for Industry 4.0](https://github.com/jssuarezc/Lego-IoT-Project)**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol.
-* **[ROBOT DERBY](https://github.com/jssuarezc/ROBOTDERBY)**: Maze designed in Python, where different algorithms race to the finnish line.
 * **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
 * **[TRACKING LOG](https://github.com/jssuarezc/Tracking-Log)**: Small tracking log to keep notes, using .NET6.
-* **[FRIDGEVENTORY](https://github.com/jssuarezc/FOODPANTRY)**: Web based application for pantry storage. Work in progress.
 * **SERAPHYNC**: Web interface that suggests music based on your mood. Based on EmotionCLIP. Work in progress.
 * **WATER PLANT**: IoT project for Embedded Systems course. Work in progress.
 
