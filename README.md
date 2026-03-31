@@ -23,8 +23,6 @@
 * **[SQL QUERY CHALLENGE](https://github.com/jssuarezc/SQL_DATA_ANALYTICS)**: SQL query solving for interviews.
 * **[IoT for Industry 4.0](https://github.com/jssuarezc/Lego-IoT-Project)**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol.
 * **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
-* **[TRACKING LOG](https://github.com/jssuarezc/Tracking-Log)**: Small tracking log to keep notes, using .NET6.
-* **SERAPHYNC**: Web interface that suggests music based on your mood. Based on EmotionCLIP. Work in progress.
 * **WATER PLANT**: IoT project for Embedded Systems course. Work in progress.
 
 ## 2026 projects:
