@@ -19,21 +19,17 @@
 * **[Emotion Video Player](https://github.com/jssuarezc/Affective-Computing)**: AI-driven video player that showcases emotions, based on EMOTIONCLIP | :2nd_place_medal: **Runner up in the Affective Computing course.**
 * **[RASPBERRY PI - PROJECT](https://github.com/jssuarezc/IoT_Security_System)**: Alarm system with intruder classification, developed for the IoT course - University of Oulu.
 * **[FRIDGEVENTORY](https://github.com/jssuarezc/FOODPANTRY)**: Web based application for pantry storage. Work in progress.
+* **[TODAYIN_NEWSLETTER](https://github.com/jssuarezc/TI_NEWSLETTER)**: Website newsletter based on old [News API](https://github.com/jssuarezc/NewsAPI) Repo to display news content. Built in Flask.  
 * **[ROBOT DERBY](https://github.com/jssuarezc/ROBOTDERBY)**: Maze designed in Python, where different algorithms race to the finnish line.
 * **[SQL QUERY CHALLENGE](https://github.com/jssuarezc/SQL_DATA_ANALYTICS)**: SQL query solving for interviews.
 * **[IoT for Industry 4.0](https://github.com/jssuarezc/Lego-IoT-Project)**: Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol.
-* **[NEWS API](https://github.com/jssuarezc/NewsAPI)**: Website that uses the News API to display content around the world. Built on .NET 6.
 * **WATER PLANT**: IoT project for Embedded Systems course. Work in progress.
-
-## 2026 projects:
-
-* Udemy for VR based on Udemy Fundamentals.
 
 ## STACK
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,figma,aws,javascript,arduino,bootstrap,cs,cpp,css,cmake,dotnet,matlab,mysql,postman,py,pytorch,r,ros,sqlite,tailwind,vscode,flask" />
+    <img src="https://skillicons.dev/icons?i=figma,javascript,arduino,bootstrap,cs,cpp,css,cmake,dotnet,matlab,mysql,postman,py,pytorch,r,ros,sqlite,tailwind,vscode,flask" />
   </a>
 </p>
 
